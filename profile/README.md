@@ -17,9 +17,9 @@ At Resynced Design, we are passionate about leveraging cutting-edge technologies
 
 #### Our Tech Stack 💻
 
-- **Languages**: TypeScript, JavaScript, Java
+- **Languages**: Go, PHP, Java, TypeScript, JavaScript
 - **Design Tools**: Figma, VSCode, Framer
-- **Frameworks & Libraries**: Node.js, Next.js, Nuxt.js
+- **Frameworks & Libraries**: Node.js, Next.js, Nuxt.js, Laravel, Go Fiber
 - **We're always trying to learn more!**
 
 #### Projects 🛠️
@@ -29,6 +29,7 @@ Explore some of our featured projects:
 - **BlobHost**: [Blob Website](https://blob.karstest.pro) - A free host priorotising the user over profits.
 - **Mist**: [Mist Websote](https://mist.bar) - A aestechic discord bot providing versatilty and usability.
 - **Resent**: [Resent Website](https://resent.dev) - A bot focusing on enhancing communities with user-focused commands.
+- **Loki.lol** [Loki Website](https://loki.lol/) - A feature-rich modern bio link.
 
 #### Get in Touch 📩
 
