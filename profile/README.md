@@ -44,6 +44,10 @@ Join us on our journey to create beautiful, functional, and innovative digital s
 
 Meet the minds behind Recyned Design:
 
-- **Kars** - Founder & Lead Developer 🚀
+- **Kars** - Founder & Lead Frontend Developer 🚀
   - Website: [Kars1996](https://kars.bio)
   - Twitter: [@kars1996](https://twitter.com/kars1996)
+    
+- **Zero** - Co-Founder & Lead Backend Developer 🚀
+  - Website: [interrupted.me](https://interrupted.me/)
+  - Twitter: [@Z3R0xxz](https://x.com/Z3R0xxz)
