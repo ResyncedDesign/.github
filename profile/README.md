@@ -26,10 +26,12 @@ At Resynced Design, we are passionate about leveraging cutting-edge technologies
 
 Explore some of our featured projects:
 
-- **BlobHost**: [Blob Website](https://blob.karstest.pro) - A free host priorotising the user over profits.
 - **Mist**: [Mist Websote](https://mist.bar) - A aestechic discord bot providing versatilty and usability.
 - **Resent**: [Resent Website](https://resent.dev) - A bot focusing on enhancing communities with user-focused commands.
 - **Loki.lol** [Loki Website](https://loki.lol/) - A feature-rich modern bio link.
+- **Termed.me** [Termed Website](https://termed.me) - A easy way to display your account status.
+- **Interrupted.me** [Interruped Website](https://interrupted.me) - A file uploader and general biolink.
+- **Quova.cc** [Quova Website](https://quova.cc) - An All-In-One Biolink solution.
 
 #### Get in Touch 📩
 
